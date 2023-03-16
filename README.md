@@ -1,6 +1,6 @@
 # 🏛 ALCOL - 알고리즘 대결 사이트
 
-![로고](/uploads/f67275ddbfe191bba02d51b3634b0821/로고.PNG)
+![로고](https://user-images.githubusercontent.com/67596451/225651727-d5a4f4c9-4071-435e-925d-21c468b7cd1d.png)
 
 </br>
 
@@ -200,7 +200,7 @@ Frontend
 
 ### ERD
 ---
-![ERD](/uploads/06b92fd25d9a257d72dec4f885aa2be8/ERD.png)
+![ERD](https://user-images.githubusercontent.com/67596451/225651717-84223f76-cf51-478f-8fbd-91ca2a933a74.png)
 
 </br>
 
@@ -208,7 +208,7 @@ Frontend
 ---
 ### MSA구조에 맞게 프로젝트 단위마다 Docker 컨테이너로 나누어 관리, 젠킨스를 통해 자동 빌드, 배포 중
 ---
-![iimage](/uploads/c718ce6a72f89c83957f886f2ccbf4b9/iimage.png)
+![iimage](https://user-images.githubusercontent.com/67596451/225651747-89ede7d6-8828-4106-aa83-69793a955fab.png)
 
 </br>
 
@@ -247,21 +247,21 @@ Frontend
   
 ## ✔ 팀원 역할 분배
 ---
-![팀원 역할 분배](/uploads/981486a506d5be6094c3f20ad5532868/스크린샷_2023-02-17_오전_1.59.39.png)
+![팀원 역할 분배](https://user-images.githubusercontent.com/67596451/225651789-8217d6e9-31cd-4365-bbab-baf14aa59b6d.png)
 
 </br>
 
 ## ✔ 프로젝트 산출물
 ---
-- [주제선정](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95%20%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md)
-- [기능명세서](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/%EA%B8%B0%EB%8A%A5%20%EB%AA%85%EC%84%B8%EC%84%9C.md)
-- [시퀀스다이어그램](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md)
-- [UI/UX](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/UIUX%20%EB%94%94%EC%9E%90%EC%9D%B8.md)
-- [컨벤션](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/%EC%BB%A8%EB%B2%A4%EC%85%98.md)
-- [API](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/API%20%EB%AA%85%EC%84%B8%EC%84%9C.md)
+- [주제선정](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95%20%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md)
+- [기능명세서](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/%EA%B8%B0%EB%8A%A5%20%EB%AA%85%EC%84%B8%EC%84%9C.md)
+- [시퀀스다이어그램](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.md)
+- [UI/UX](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/UIUX%20%EB%94%94%EC%9E%90%EC%9D%B8.md)
+- [컨벤션](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/%EC%BB%A8%EB%B2%A4%EC%85%98.md)
+- [API](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/API%20%EB%AA%85%EC%84%B8%EC%84%9C.md)
 - [ERD](https://blushing-friend-fae.notion.site/ERD-a3f7f107e10d48f2ad4509eb8eb11819)
-- [회의록](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
-- [시스템 구조도](https://lab.ssafy.com/s08-webmobile1-sub2/S08P12B303/-/blob/master/docs/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%A1%B0%EB%8F%84.md)
+- [회의록](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+- [시스템 구조도](https://github.com/SEOYOUNG-cloud/alcolproject/blob/main/docs/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%A1%B0%EB%8F%84.md)
 
 </br>
 
